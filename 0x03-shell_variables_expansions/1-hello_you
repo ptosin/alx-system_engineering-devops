@@ -1,2 +1,4 @@
 #!/bin/bash
-echo  "hello root"
+USER "hello root"
+echo  $USER
+
