@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "hello root"
-
+alias echo="hello root"
 
